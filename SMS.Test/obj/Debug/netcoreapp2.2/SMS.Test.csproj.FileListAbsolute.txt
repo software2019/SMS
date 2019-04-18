@@ -1,0 +1,102 @@
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Test.deps.json
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Test.runtimeconfig.json
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Test.runtimeconfig.dev.json
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Test.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Test.pdb
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Data.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Data.pdb
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.csprojAssemblyReference.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.csproj.CoreCompileInputs.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.AssemblyInfoInputs.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.AssemblyInfo.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.csproj.CopyComplete
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.pdb
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Test.deps.json
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Test.runtimeconfig.json
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Test.runtimeconfig.dev.json
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Test.dll
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Test.pdb
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Data.dll
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Data.pdb
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.csprojAssemblyReference.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.csproj.CoreCompileInputs.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.AssemblyInfoInputs.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.AssemblyInfo.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.csproj.CopyComplete
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.dll
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.pdb
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Test.deps.json
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Test.runtimeconfig.json
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Test.runtimeconfig.dev.json
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Test.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Test.pdb
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Data.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Data.pdb
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.csprojAssemblyReference.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.csproj.CoreCompileInputs.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.AssemblyInfoInputs.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.AssemblyInfo.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.csproj.CopyComplete
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.pdb
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Test/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Test/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Test/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Test.deps.json
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Test.runtimeconfig.json
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Test.runtimeconfig.dev.json
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Test.dll
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Test.pdb
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Data.dll
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Data.pdb
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.csprojAssemblyReference.cache
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.csproj.CoreCompileInputs.cache
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.AssemblyInfoInputs.cache
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.AssemblyInfo.cs
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.csproj.CopyComplete
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.dll
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.pdb
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Test/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Test/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Test/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Test.deps.json
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Test.runtimeconfig.json
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Test.runtimeconfig.dev.json
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Test.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Test.pdb
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Data.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Test/bin/Debug/netcoreapp2.2/SMS.Data.pdb
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.csprojAssemblyReference.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.csproj.CoreCompileInputs.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.AssemblyInfoInputs.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.AssemblyInfo.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.csproj.CopyComplete
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Test/obj/Debug/netcoreapp2.2/SMS.Test.pdb
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Test\bin\Debug\netcoreapp2.2\SMS.Test.deps.json
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Test\bin\Debug\netcoreapp2.2\SMS.Test.runtimeconfig.json
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Test\bin\Debug\netcoreapp2.2\SMS.Test.runtimeconfig.dev.json
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Test\bin\Debug\netcoreapp2.2\SMS.Test.dll
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Test\bin\Debug\netcoreapp2.2\SMS.Test.pdb
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Test\bin\Debug\netcoreapp2.2\SMS.Data.dll
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Test\bin\Debug\netcoreapp2.2\SMS.Data.pdb
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Test\obj\Debug\netcoreapp2.2\SMS.Test.csprojAssemblyReference.cache
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Test\obj\Debug\netcoreapp2.2\SMS.Test.csproj.CoreCompileInputs.cache
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Test\obj\Debug\netcoreapp2.2\SMS.Test.AssemblyInfoInputs.cache
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Test\obj\Debug\netcoreapp2.2\SMS.Test.AssemblyInfo.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Test\obj\Debug\netcoreapp2.2\SMS.Test.csproj.CopyComplete
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Test\obj\Debug\netcoreapp2.2\SMS.Test.dll
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Test\obj\Debug\netcoreapp2.2\SMS.Test.pdb

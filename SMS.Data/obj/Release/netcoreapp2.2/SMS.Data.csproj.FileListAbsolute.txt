@@ -1,0 +1,10 @@
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Data/bin/Release/netcoreapp2.2/SMS.Data.deps.json
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Data/bin/Release/netcoreapp2.2/SMS.Data.runtimeconfig.json
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Data/bin/Release/netcoreapp2.2/SMS.Data.runtimeconfig.dev.json
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Data/bin/Release/netcoreapp2.2/SMS.Data.dll
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Data/bin/Release/netcoreapp2.2/SMS.Data.pdb
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Data/obj/Release/netcoreapp2.2/SMS.Data.csproj.CoreCompileInputs.cache
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Data/obj/Release/netcoreapp2.2/SMS.Data.AssemblyInfoInputs.cache
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Data/obj/Release/netcoreapp2.2/SMS.Data.AssemblyInfo.cs
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Data/obj/Release/netcoreapp2.2/SMS.Data.dll
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Data/obj/Release/netcoreapp2.2/SMS.Data.pdb

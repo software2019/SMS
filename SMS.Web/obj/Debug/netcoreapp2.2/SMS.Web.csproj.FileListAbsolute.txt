@@ -1,0 +1,384 @@
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.csprojAssemblyReference.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.csproj.CoreCompileInputs.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorAssemblyInfo.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorAssemblyInfo.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.AssemblyInfoInputs.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.AssemblyInfo.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.deps.json
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.runtimeconfig.json
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.runtimeconfig.dev.json
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.pdb
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.Views.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.Views.pdb
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.TagHelpers.input.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.TagHelpers.output.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorCoreGenerate.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorTargetAssemblyInfo.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorTargetAssemblyInfo.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.Views.pdb
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.pdb
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.csproj.CopyComplete
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/About.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Data.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Data.pdb
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical8-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Details.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.deps.json
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.runtimeconfig.json
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.runtimeconfig.dev.json
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.dll
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.pdb
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.Views.dll
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.Views.pdb
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Data.dll
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Data.pdb
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.csprojAssemblyReference.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.csproj.CoreCompileInputs.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorAssemblyInfo.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorAssemblyInfo.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.AssemblyInfoInputs.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.AssemblyInfo.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.TagHelpers.input.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.TagHelpers.output.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorCoreGenerate.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/About.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Create.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Delete.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Details.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Edit.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Index.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Search.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorTargetAssemblyInfo.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorTargetAssemblyInfo.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.Views.pdb
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.csproj.CopyComplete
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.dll
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.pdb
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.deps.json
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.runtimeconfig.json
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.runtimeconfig.dev.json
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.pdb
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.Views.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.Views.pdb
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Data.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Data.pdb
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.csprojAssemblyReference.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.csproj.CoreCompileInputs.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorAssemblyInfo.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorAssemblyInfo.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.AssemblyInfoInputs.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.AssemblyInfo.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.TagHelpers.input.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.TagHelpers.output.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorCoreGenerate.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/About.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Create.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Delete.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Details.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Edit.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Index.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Search.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorTargetAssemblyInfo.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorTargetAssemblyInfo.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.Views.pdb
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.csproj.CopyComplete
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical9-SMS2-Template/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.pdb
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.deps.json
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.runtimeconfig.json
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.runtimeconfig.dev.json
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.dll
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.pdb
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.Views.dll
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.Views.pdb
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Data.dll
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Data.pdb
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.csprojAssemblyReference.cache
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.csproj.CoreCompileInputs.cache
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorAssemblyInfo.cache
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorAssemblyInfo.cs
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.AssemblyInfoInputs.cache
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.AssemblyInfo.cs
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.TagHelpers.input.cache
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.TagHelpers.output.cache
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorCoreGenerate.cache
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/About.g.cshtml.cs
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Create.g.cshtml.cs
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/CreateTicket.g.cshtml.cs
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Delete.g.cshtml.cs
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Details.g.cshtml.cs
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Edit.g.cshtml.cs
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Index.g.cshtml.cs
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Search.g.cshtml.cs
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/_Tickets.g.cshtml.cs
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Ticket/Create.g.cshtml.cs
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Ticket/Index.g.cshtml.cs
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorTargetAssemblyInfo.cache
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorTargetAssemblyInfo.cs
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.Views.pdb
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.csproj.CopyComplete
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.dll
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.pdb
+/Users/aiden/Documents/Archive-Code/dotNet/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/_Modules.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.deps.json
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.runtimeconfig.json
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.runtimeconfig.dev.json
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.dll
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.pdb
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.Views.dll
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.Views.pdb
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Data.dll
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Data.pdb
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.csprojAssemblyReference.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.csproj.CoreCompileInputs.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorAssemblyInfo.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorAssemblyInfo.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.AssemblyInfoInputs.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.AssemblyInfo.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.TagHelpers.input.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.TagHelpers.output.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorCoreGenerate.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/About.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Create.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/CreateTicket.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Delete.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Details.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Edit.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Index.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Search.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/_Modules.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/_Tickets.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Ticket/Create.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Ticket/Index.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorTargetAssemblyInfo.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorTargetAssemblyInfo.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.Views.pdb
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.csproj.CopyComplete
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.dll
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.pdb
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.csproj.CoreCompileInputs.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorAssemblyInfo.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorAssemblyInfo.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.AssemblyInfoInputs.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.AssemblyInfo.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.pdb
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.deps.json
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.runtimeconfig.json
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.runtimeconfig.dev.json
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.pdb
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.Views.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.Views.pdb
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Data.dll
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Data.pdb
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.TagHelpers.input.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.TagHelpers.output.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorCoreGenerate.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/About.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Create.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/CreateTicket.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Delete.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Details.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Edit.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Index.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Search.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/_Modules.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/_Tickets.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Ticket/Create.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Ticket/Index.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorTargetAssemblyInfo.cache
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorTargetAssemblyInfo.cs
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.Views.pdb
+Z:/OneDrive - Ulster University/Ulster-Code/COM741/Practical10-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.csproj.CopyComplete
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.deps.json
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.runtimeconfig.json
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.runtimeconfig.dev.json
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.dll
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.pdb
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.Views.dll
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Web.Views.pdb
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Data.dll
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/bin/Debug/netcoreapp2.2/SMS.Data.pdb
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.csprojAssemblyReference.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.csproj.CoreCompileInputs.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorAssemblyInfo.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorAssemblyInfo.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.AssemblyInfoInputs.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.AssemblyInfo.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.TagHelpers.input.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.TagHelpers.output.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorCoreGenerate.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/About.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_RenderAlert.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Create.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/CreateTicket.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Delete.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Details.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Edit.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/Index.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/_Modules.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Student/_Tickets.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Ticket/Create.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Ticket/Index.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorTargetAssemblyInfo.cache
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.RazorTargetAssemblyInfo.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.Views.pdb
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.csproj.CopyComplete
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.dll
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/SMS.Web.pdb
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/User/Login.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/User/Register.g.cshtml.cs
+/Users/aiden/OneDrive - Ulster University/Ulster-Code/COM741/Practical11-SMS2-Complete/SMS.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Login.g.cshtml.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\bin\Debug\netcoreapp2.2\SMS.Web.deps.json
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\bin\Debug\netcoreapp2.2\SMS.Web.runtimeconfig.json
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\bin\Debug\netcoreapp2.2\SMS.Web.runtimeconfig.dev.json
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\bin\Debug\netcoreapp2.2\SMS.Web.dll
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\bin\Debug\netcoreapp2.2\SMS.Web.pdb
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\bin\Debug\netcoreapp2.2\SMS.Web.Views.dll
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\bin\Debug\netcoreapp2.2\SMS.Web.Views.pdb
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\bin\Debug\netcoreapp2.2\SMS.Data.dll
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\bin\Debug\netcoreapp2.2\SMS.Data.pdb
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.csprojAssemblyReference.cache
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.csproj.CoreCompileInputs.cache
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.RazorAssemblyInfo.cache
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.RazorAssemblyInfo.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.AssemblyInfoInputs.cache
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.AssemblyInfo.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.TagHelpers.input.cache
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.TagHelpers.output.cache
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.RazorCoreGenerate.cache
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Login.g.cshtml.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_RenderAlert.g.cshtml.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Student\Create.g.cshtml.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Student\CreateTicket.g.cshtml.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Student\Delete.g.cshtml.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Student\Details.g.cshtml.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Student\Edit.g.cshtml.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Student\Index.g.cshtml.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Student\_Modules.g.cshtml.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Student\_Tickets.g.cshtml.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ticket\Create.g.cshtml.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ticket\Index.g.cshtml.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\User\Login.g.cshtml.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\User\Register.g.cshtml.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.RazorTargetAssemblyInfo.cache
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.RazorTargetAssemblyInfo.cs
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.Views.pdb
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.csproj.CopyComplete
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.dll
+C:\Users\pg18ram\Documents\com741\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.pdb
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\bin\Debug\netcoreapp2.2\SMS.Web.deps.json
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\bin\Debug\netcoreapp2.2\SMS.Web.runtimeconfig.json
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\bin\Debug\netcoreapp2.2\SMS.Web.runtimeconfig.dev.json
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\bin\Debug\netcoreapp2.2\SMS.Web.dll
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\bin\Debug\netcoreapp2.2\SMS.Web.pdb
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\bin\Debug\netcoreapp2.2\SMS.Web.Views.dll
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\bin\Debug\netcoreapp2.2\SMS.Web.Views.pdb
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\bin\Debug\netcoreapp2.2\SMS.Data.dll
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\bin\Debug\netcoreapp2.2\SMS.Data.pdb
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.csprojAssemblyReference.cache
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.csproj.CoreCompileInputs.cache
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.RazorAssemblyInfo.cache
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.RazorAssemblyInfo.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.AssemblyInfoInputs.cache
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.AssemblyInfo.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.TagHelpers.input.cache
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.TagHelpers.output.cache
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.RazorCoreGenerate.cache
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Login.g.cshtml.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_RenderAlert.g.cshtml.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Student\Create.g.cshtml.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Student\CreateTicket.g.cshtml.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Student\Delete.g.cshtml.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Student\Details.g.cshtml.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Student\Edit.g.cshtml.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Student\Index.g.cshtml.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Student\_Modules.g.cshtml.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Student\_Tickets.g.cshtml.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ticket\Create.g.cshtml.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ticket\Index.g.cshtml.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\User\Login.g.cshtml.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\User\Register.g.cshtml.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.RazorTargetAssemblyInfo.cache
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.RazorTargetAssemblyInfo.cs
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.Views.pdb
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.csproj.CopyComplete
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.dll
+C:\Users\shidu\Documents\Practical11-SMS2-Template\SMS.Web\obj\Debug\netcoreapp2.2\SMS.Web.pdb

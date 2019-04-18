@@ -1,0 +1,17 @@
+﻿<table class="table">
+    <thead>
+        <tr>
+            <th>Module</th>
+            <th>Grade</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var sm in Model.StudentModules)
+        {
+            <tr>
+                <td>@sm.Module.Title</td>
+                <td>@sm.Grade</td>   
+            </tr>
+        }
+    </tbody>
+</table>

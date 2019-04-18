@@ -1,0 +1,51 @@
+﻿@model IList<Ticket>
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+            <a asp-controller="Home" asp-action="Index">Home</a>
+        </li>
+        <li class="breadcrumb-item active" aria-current="page">
+            Tickets
+        </li>
+    </ol>
+</nav>
+
+<h3>Open Ticket List</h3>
+
+@if (User.IsInRole("Admin"))
+{
+    <div class="mt-4 mb-4">
+       <a asp-action="Create" class="btn btn-primary btn-sm">Create Ticket</a>
+    </div>
+}
+<table class="table">
+    <thead>
+      <tr>
+         <th>Id</th>
+         <th>Student</th>
+         <th>Issue</th>
+         <th>Created</th>           
+         <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      @foreach(var t in Model) {
+          <tr>
+            <td>@t.Id</td>
+            <td>@t.Student.Name</td>
+            <td>@t.Issue</td>
+            <td>@t.CreatedOn</td>              
+            <td>
+                @if (User.IsInRole("Admin") || User.IsInRole("Manager"))
+                {
+                   <form asp-action="Close">
+                     <input type="hidden" name="id" value=@t.Id />
+                     <input type="submit" value="Close" class="btn btn-link"/>
+                   </form>                                          
+                }
+            </td>
+         </tr>
+      }
+    </tbody>
+</table>
