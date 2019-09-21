@@ -7435,23 +7435,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\shidu\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/rahman/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shidu\\Documents\\Practical11-SMS2-Template\\SMS.Test\\SMS.Test.csproj",
+      "projectUniqueName": "/Users/rahman/Desktop/Software 1/SMS/SMS.Test/SMS.Test.csproj",
       "projectName": "SMS.Test",
-      "projectPath": "C:\\Users\\shidu\\Documents\\Practical11-SMS2-Template\\SMS.Test\\SMS.Test.csproj",
-      "packagesPath": "C:\\Users\\shidu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shidu\\Documents\\Practical11-SMS2-Template\\SMS.Test\\obj\\",
+      "projectPath": "/Users/rahman/Desktop/Software 1/SMS/SMS.Test/SMS.Test.csproj",
+      "packagesPath": "/Users/rahman/.nuget/packages/",
+      "outputPath": "/Users/rahman/Desktop/Software 1/SMS/SMS.Test/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\shidu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/rahman/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
@@ -7462,8 +7462,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\shidu\\Documents\\Practical11-SMS2-Template\\SMS.Data\\SMS.Data.csproj": {
-              "projectPath": "C:\\Users\\shidu\\Documents\\Practical11-SMS2-Template\\SMS.Data\\SMS.Data.csproj"
+            "/Users/rahman/Desktop/Software 1/SMS/SMS.Data/SMS.Data.csproj": {
+              "projectPath": "/Users/rahman/Desktop/Software 1/SMS/SMS.Data/SMS.Data.csproj"
             }
           }
         }
